@@ -4,3 +4,5 @@
 hello im doing 7th experiment toady for tomorrows 😒
 now doing push command
 now executing push
+
+next doing pull
